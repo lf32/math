@@ -14,3 +14,5 @@
 - [Introduction To Hilbert Space](https://www.dropbox.com/scl/fi/qdzufoaytr7trmgo9k0uv/Intro_Hilbert_Space-Berberian.pdf?rlkey=dlyzb3z5ymoauo3jk3o4f5049&st=cbvyj8uc&dl=0)
 - [Methods of Mathematical Finance](https://www.dropbox.com/scl/fi/4su85btchcs9dorvi7ovh/Methods-of-Mathematical-Finance-Karatzas-Shreve.pdf?rlkey=ga5791buy5wh614377ksa28n9&st=8ggnk8vg&dl=0)
 - 
+
+> Open for feedback
