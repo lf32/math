@@ -7,3 +7,5 @@
 - [Advanced Linear Algebra Steve Roman](https://www.dropbox.com/scl/fi/n5hc83o2midvrum6d9jx3/AdvancedLinearAlgebraSteveRoman.pdf?rlkey=6rho6v38ogbzzsw1gjt3axvaa&st=tsvp35g2&dl=0)
 - [Number Theory and Cryptography by Neal Koblitz](https://www.dropbox.com/scl/fi/40j8satxxuoukiq33406h/Koblitz.2ndEd.pdf?rlkey=dxa1l58gp7sjcqkty6gm1cvi0&st=oxyqcf04&dl=0)
 - [Partial Differential Equation by John Fritz](https://www.dropbox.com/scl/fi/2pos3ht458htqdj4xzg93/john-fritz-partial-differential-equations-4ed-1982.pdf?rlkey=gya0dzhtpjr0hv6chk9r0vnk4&st=8nwgjbh0&dl=0)
+- [Real Analysis Royden 4ed](https://www.dropbox.com/scl/fi/o616s08xarhnimbg39deh/Real-Analysis-4th-Ed-Royden.pdf?rlkey=huxrwvntl8eel1f6om1obelm5&st=ux99ozcv&dl=0)
+- [Real Analysis Understanding Analysis Stephen Abbott](https://www.dropbox.com/scl/fi/m3u1qxqfh1eeh1jh5klvj/understanding-analysis.pdf?rlkey=gjzfa2k0pgglsd401buy4bk0k&st=m6kkigd9&dl=0)
