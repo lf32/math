@@ -9,3 +9,6 @@
 - [Partial Differential Equation by John Fritz](https://www.dropbox.com/scl/fi/2pos3ht458htqdj4xzg93/john-fritz-partial-differential-equations-4ed-1982.pdf?rlkey=gya0dzhtpjr0hv6chk9r0vnk4&st=8nwgjbh0&dl=0)
 - [Real Analysis Royden 4ed](https://www.dropbox.com/scl/fi/o616s08xarhnimbg39deh/Real-Analysis-4th-Ed-Royden.pdf?rlkey=huxrwvntl8eel1f6om1obelm5&st=ux99ozcv&dl=0)
 - [Real Analysis Understanding Analysis Stephen Abbott](https://www.dropbox.com/scl/fi/m3u1qxqfh1eeh1jh5klvj/understanding-analysis.pdf?rlkey=gjzfa2k0pgglsd401buy4bk0k&st=m6kkigd9&dl=0)
+- [Stochastic Processes Third Edition](https://www.dropbox.com/scl/fi/vx0fivo8tsw07o3n21ri0/Stochastic-Processes-An-Introduction-Peter-W.-Jones-E3.pdf?rlkey=qq1ao439urehva3f6947hoggj&st=28mk830o&dl=0)
+- [Introduction To Topology and Modern Analysis](https://www.dropbox.com/scl/fi/93n48r7roxuovjl25eljq/introduction-to-topology-and-modern-analysis-3-pdf-free.pdf?rlkey=3a8cpjyej8x2duizbp7x9vmox&st=b1cw3a0i&dl=0)
+- [Introduction To Hilbert Space](https://www.dropbox.com/scl/fi/qdzufoaytr7trmgo9k0uv/Intro_Hilbert_Space-Berberian.pdf?rlkey=dlyzb3z5ymoauo3jk3o4f5049&st=cbvyj8uc&dl=0)
